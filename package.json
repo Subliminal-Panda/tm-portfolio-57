@@ -1,0 +1,28 @@
+{
+  "name": "tm-portfolio-57",
+  "version": "1.0.0",
+  "description": "Tristan Mouritsen's Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subliminal-Panda/portfolio.git"
+  },
+  "author": "Tristan Mouritsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Subliminal-Panda/portfolio/issues"
+  },
+  "homepage": "https://github.com/Subliminal-Panda/portfolio#readme",
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "firebase": "^10.6.0",
+    "lodash": "^4.17.21"
+  }
+}
